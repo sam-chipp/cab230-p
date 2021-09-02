@@ -1,0 +1,95 @@
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.li-Right {
+  float:right;
+}
+
+.all-stocks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+
+}
+
+.quote-table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.logAlert {
+  padding: 15px;
+}
+
+.register {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.search-bar {
+  padding: 15px;
+}
+
+.drop-down {
+  padding: 15px;
+  width: 365px;
+}
+
+.company {
+  text-align: right;
+}
+
+.date-picker {
+  padding: 15px;
+}
+
+
+
+
+
+/*** USER CONTROLS ***/
+
+
